@@ -7,6 +7,8 @@
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Anime.js](https://img.shields.io/badge/Anime.js-FF2D20?style=flat-square)
 
+[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Ludo/)
+
 ---
 
 ## Description
