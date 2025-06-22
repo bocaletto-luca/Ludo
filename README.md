@@ -96,3 +96,5 @@ To play the Ludo Webgame locally:
 2. Start Webserver Example Apache 2 and open index.html in Browser Web
 
 #### Enjoy Game - By Bocaletto Luca
+
+#### License: GPLv3
